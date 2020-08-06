@@ -27,7 +27,7 @@ Containerizd MediaElch and allow remote accesss through HTTP GUI. Connect to `ht
 
 ### User / Group Identifiers
 You can specify the user `PUID` and group `PGID`. Ensure the data volume directory on the host is owned by the same user.
-
+For Unraid PUID should be 99 and PGID 100 
 ### Update
 
 Fixed the VNC resolution (1600x900) in the browser to display the full artwork with Image 1.1

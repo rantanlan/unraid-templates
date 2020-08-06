@@ -15,7 +15,7 @@
   <Overview>
     Mediaelch is a Tool to manage your movie and show libary regarding the metadata and artwork.
   </Overview>
-  <Support>none yet</Support>
+  <Support>https://forums.unraid.net/topic/58352-support-djoss-makemkv/</Support>
   <Registry>https://hub.docker.com/repository/docker/masonxx/mediaelch</Registry>
   <Repository>masonxx/mediaelch</Repository>
   <Project>https://github.com/Komet/MediaElch</Project>

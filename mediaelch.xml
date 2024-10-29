@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Containers>
-  <TemplateURL>https://github.com/rantanlan/unraid-templates/mediaelch.xml</TemplateURL>
+  <TemplateURL>https://raw.githubusercontent.com/rantanlan/unraid-templates/refs/heads/master/mediaelch.xml</TemplateURL>
   <Beta>False</Beta>
   <Category>Tool: MediaApp:Video</Category>
   <Name>MediaElch</Name>
